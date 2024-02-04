@@ -1,0 +1,26 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "file_manager_for_RSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/manager.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladopot/file-manager.git"
+  },
+  "keywords": [
+    "nodejs",
+    "assignments",
+    "alreadybored"
+  ],
+  "author": "vladsopot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vladopot/file-manager/issues"
+  },
+  "homepage": "https://github.com/vladopot/file-manager#readme"
+}
